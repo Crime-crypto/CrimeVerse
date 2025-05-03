@@ -13,3 +13,17 @@
         "GameFi",
         "Gaming"
       }
+ {
+      "chainId": 101,
+      "address": "3YEZqphWjUmsfjbQZSp1JuPmtoe17E7G2wy7opz9pump",
+      "symbol": "ViceGirl",
+      "name": "ViceGirl",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Crime-crypto/token-list/main/assets/mainnet/3YEZqphWjUmsfjbQZSp1JuPmtoe17E7G2wy7opz9pump.png",
+      "tags": [
+        "utility-token",
+        "game-token",
+        "game-currency",
+        "GameFi",
+        "Gaming"
+      }
